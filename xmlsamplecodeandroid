@@ -1,0 +1,9 @@
+Sample Code
+
+The client package contains two samples that you can use to test the client:
+
+nName-value pairs: See AuthCaptureSample.java in <main directory>/samples/nvp/src/com/cybersource/sample.
+
+nXML: Before implementing your code to process XML requests, CyberSource recommends that you examine the name-value pair sample code listed above.
+
+For the XML sample code, see AuthSample.java in <main directory>/samples/xml/src/com/cybersource/sample.
